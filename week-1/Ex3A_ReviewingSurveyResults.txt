@@ -1,0 +1,37 @@
+1. What conclusion can you reach about the responses to this question?
+
+Most students focus is to be settled and prepared before class.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+The pie chart is simple but the "Other" option is unclear. It would be improved by adding a "no" option. 
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these? 
+
+You can find full text in individual responses this can be tricky since each person have different thoughts. 
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided?
+
+The main challenge is the "Other" option which makes it unclear for data. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+
+I think it should be a multiple choice questions. For example "What area you most curious about?" 
+
+Next respond to the below questions:
+6. Is there anything that surprised you about the survey responses?
+
+"Other" for the monitor question instead of simply "no" to show how important clear answer choices are in a survey.
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about?
+
+Seeing classmates plan to check their tech setup before class is a good reminder to always test devices early. 
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class?
+
+Almost half of the class lacks a second monitor. As the instructor I might consider teaching with a single screen layout and design exercises that work comfortably on a single screen.
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+
+The survey was helpful for understanding the class setup, but the "Other" option made some results hard to interpret. Providing more specific answer choices would make the data much clear to read for the instructor. 
+
