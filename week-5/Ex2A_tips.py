@@ -16,3 +16,9 @@ print("the total due is " + str(total_due))
 
 # str() converts a number into a string so it can be combined with other text using the + sign
 # Without str(), Python would give an error because you cannot join a number and a string together 
+
+
+print("Food cost is " + str(food_cost) + " and tax is " + str(tax))
+#print("Tip is " + str(tip))
+print("Tip is " + format(tip, ".2f"))
+print("Total due is " + str(total_due))
