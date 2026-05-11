@@ -1,4 +1,4 @@
-# Lab 1 - 
+# Lab 1 
 
 customer_id = 1002
 # using a number but might need to be a string if IDs start with zeros
@@ -33,6 +33,3 @@ birth_city_state = "New York, New York"
 #def = creates a reasuble block of code called a function
 #return = used to send a result back when fucntion finishes running 
 #import = add extra tools, its used to bring in external ^^modules^^ or libraries 
-
-    
-
