@@ -29,7 +29,8 @@ Performance bonus (10%) : ${bonus:.2f}
 """)
 
 
-# 5. Add input validation using try / except to catch non-numeric entries for units and price
+# 5. Add input validation using try / except to catch non-numeric entries for units and 
+price
 
 while True:
     try:
@@ -46,6 +47,6 @@ while True:
         print("Invalid! Please enter a number.")
         
 # try = attempts to convert the input to a number
-# except ValueError = if the user types letters, it catches the error and prints a message
+# except ValueError = if the user types letters like "abc", it catches the error and prints a message
 # while True = keeps asking until a valid number is entered
 # break = exits the loop once valid input is given
